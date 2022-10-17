@@ -5,7 +5,7 @@ This project is given by InfPals Leaders in Weeks 5 - Week 8 semester 1 school y
 
 Github repo with [initial version of the project](https://github.com/infpals/ip2023-big-project-1-initial-template).
 
-Github repo with [updated version of the project](https://github.com/infpals/ip2022-big-project-template-updated).
+Github repo with [updated version of the project](https://github.com/infpals/ip2023-big-project-1-updated-template).
 
 Github repo with [final version of the project](https://github.com/infpals/ip2023-big-project-1-final).
 
