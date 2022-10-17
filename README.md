@@ -7,7 +7,7 @@ Github repo with [initial version of the project](https://github.com/infpals/ip2
 
 Github repo with [updated version of the project](https://github.com/infpals/ip2022-big-project-template-updated).
 
-Github repo with [final version of the project](https://github.com/infpals/ip2022-big-project-template-updated).
+Github repo with [final version of the project](https://github.com/infpals/ip2023-big-project-1-final).
 
 Matrials consists of presentations given in a span of 4 weeks:
 - Week 5
