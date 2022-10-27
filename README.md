@@ -17,3 +17,9 @@ Matrials consists of presentations given in a span of 4 weeks:
       - CSS
       - Javascript
       - OOP
+- Week 6
+  - Presentation - UI
+    - Topics Covered in Week 6:
+      - 2D Cartesian graphics
+      - Drawing to a HTML Canvas
+      - Class instantiation in JS
