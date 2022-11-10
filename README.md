@@ -23,3 +23,15 @@ Matrials consists of presentations given in a span of 4 weeks:
       - 2D Cartesian graphics
       - Drawing to a HTML Canvas
       - Class instantiation in JS
+- Week 7
+  - Presentation - Game Logic
+    - Topics Covered in Week 7:
+      - Animating the canvas
+      - Implementing collision detection
+      - Game logic & end game scenarios
+- Week 8
+  - Presentation - AI
+    - Topics Covered in Week 8:
+      - Implementing an AI player
+      - Add sounds
+      - Debugging
